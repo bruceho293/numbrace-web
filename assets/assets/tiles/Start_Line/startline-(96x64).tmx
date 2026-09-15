@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.10" tiledversion="1.12.1" orientation="orthogonal" renderorder="right-down" width="3" height="2" tilewidth="32" tileheight="32" infinite="0" nextlayerid="3" nextobjectid="2">
+ <tileset firstgid="1" source="tiles-grass-medium-32x32.tsx"/>
+ <layer id="1" name="StartLine" width="3" height="2">
+  <data encoding="csv">
+1,2,3,
+271,271,274
+</data>
+ </layer>
+ <objectgroup id="2" name="StartPoint" class="SpawnPoint">
+  <object id="1" x="48" y="48">
+   <point/>
+  </object>
+ </objectgroup>
+</map>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <map version="1.10" tiledversion="1.12.1" orientation="orthogonal" renderorder="right-down" width="15" height="30" tilewidth="32" tileheight="32" infinite="0" nextlayerid="7" nextobjectid="13">
  <tileset firstgid="1" source="tiles-water.tsx"/>
- <tileset firstgid="19" source="tiles-grass medium-32x32.tsx"/>
+ <tileset firstgid="19" source="tiles-grass-medium-32x32.tsx"/>
  <layer id="1" name="Background" width="15" height="30">
   <data encoding="csv">
 47,47,47,47,48,2684354577,10,11,12,1610612753,46,47,47,47,47,
