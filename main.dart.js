@@ -73746,7 +73746,7 @@ if(s<r){s=l.cp=s+100*a
 if(s>r){l.cp=r
 s=r}}else if(s>r){s=l.cp=s-50*a
 if(s<r){l.cp=r
-s=r}}if(s>550)l.a1=!0
+s=r}}if(s>350)l.a1=!0
 if(!l.ej.gL(0)&&l.cp>0){q=l.ej.gO(0)
 s=l.ax.d
 p=q.a8(0,s)
